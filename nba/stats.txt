@@ -1,0 +1,1 @@
+name	age	tm	lg	pos	g	gs	mp	fg	fga	fg%	ep	epa	ep%	2p	2pa	2p%	eFG%	FT	FTA	FT%	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
